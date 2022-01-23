@@ -27,6 +27,7 @@ After a KPi report was created, this insighs were discussed with the team and so
 
 4. Power BI Dashboard (On progress)
 Due to the increasing amount of emails received, an excel spreadsheet is becoming least convienent to use, hence the data is migrated to an online Sharepoint list where a dashboard using Power BI can be easily created. 
+![image](https://user-images.githubusercontent.com/50633734/150686826-0c0ac02d-4dbd-4999-95e3-9151f38d6520.png)
 
 CONCLUSIONS: 
 ![image](https://user-images.githubusercontent.com/50633734/150686129-5d43ddca-e5c0-48e3-a7aa-cf6d5e00b481.png)
